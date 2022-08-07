@@ -9,7 +9,15 @@ assignees: ''
 
 **Describe the bug** **اشرحلنا الي حصل**
 A clear and concise description of what the bug is.
-اكتب ديسكربشن محترم خلينا نفهم المشكلة كويس جدا
+اكتب ديسكربشن محترم خلينا نفهم المشكلة كويس جدا و ممكن تكتب كود
+```dart
+void notWorkingFunction(String someParam){...}
+
+class SomeClass {
+..
+..
+}
+```
 
 **To Reproduce** **عشان نجربها عندنا نعمل اية**
 1. Go to '...'
@@ -32,6 +40,10 @@ If applicable, add screenshots to help explain your problem.
  - Device: [e.g. Samsung Galaxy A51]
  - OS: [e.g. Android 12,]
  - Browser [e.g. stock browser, Chrome]
+
+**Dependency** **لو بتعمل حاجة ليها علاقه بباكج معينة اكتب اسمها**
+ - Name: [e.g. geolocator: ^9.0.1]
+ - Link: [e.g. https://pub.dev/packages/geolocator]
 
 ``flutter doctor -v``
 **Flutter doctor** **سعادتك هتعمل فلاتر دكتور زي ما هي مكتوبه فوق كده عندك في التريمنل و ترقعه بيست هنا**
